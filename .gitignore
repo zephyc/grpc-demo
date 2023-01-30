@@ -1,0 +1,11 @@
+# ide file
+.idea
+.vscode
+*/.DS_Store
+bin
+
+# tmp dir
+vendor
+output
+
+# bin
